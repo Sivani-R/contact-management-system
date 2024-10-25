@@ -1,0 +1,17 @@
+{
+  "/api/auth/login": "pages/api/auth/login.js",
+  "/api/auth/register": "pages/api/auth/register.js",
+  "/api/auth/resetPassword": "pages/api/auth/resetPassword.js",
+  "/api/auth/verifyEmail": "pages/api/auth/verifyEmail.js",
+  "/api/contacts/batchProcess": "pages/api/contacts/batchProcess.js",
+  "/api/contacts/createContact": "pages/api/contacts/createContact.js",
+  "/api/contacts/deleteContact": "pages/api/contacts/deleteContact.js",
+  "/api/contacts/downloadContacts": "pages/api/contacts/downloadContacts.js",
+  "/api/contacts/fileUpload": "pages/api/contacts/fileUpload.js",
+  "/api/contacts/getContacts": "pages/api/contacts/getContacts.js",
+  "/api/contacts/updateContact": "pages/api/contacts/updateContact.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
